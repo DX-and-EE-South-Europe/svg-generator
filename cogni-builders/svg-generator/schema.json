@@ -2,11 +2,7 @@
     "$schema": "http://json-schema.org/schema",
     "type": "object",
     "properties": {
-      "inputDir": {
-        "type": "string",
-        "minimum": 1
-      },
-      "outputDir": {
+      "configFile": {
         "type": "string",
         "minimum": 1
       }
