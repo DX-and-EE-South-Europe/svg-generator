@@ -103,6 +103,12 @@
             ],
             "scripts": []
           }
+        },
+        "svg": {
+          "builder": "cogni-builders:svg-generator",
+          "options": {
+            "configFile": "./src/config/svg.json"
+          }
         }
       }
     }

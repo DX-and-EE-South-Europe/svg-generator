@@ -1,0 +1,21 @@
+{
+    "inputDir": "",
+    "outputDir": "",
+    "prefix": "app",
+    "modules": [
+        {
+            "name": "Shapes",
+            "files": [
+                "circle",
+                "square"
+            ]
+        },
+        {
+            "name": "Fruits",
+            "files": [
+                "apple",
+                "banana"
+            ]
+        }
+    ]
+}
