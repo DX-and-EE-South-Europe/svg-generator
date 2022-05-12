@@ -1,0 +1,10 @@
+{
+  "name": "awesome-svg",
+  "version": "1.0.0",
+  "description": "Contains a list of svg resources to generate angular components and use them in your app",
+  "keywords": [
+    "svg"
+  ],
+  "author": "Jaime Martin Martin",
+  "license": "ISC"
+}
