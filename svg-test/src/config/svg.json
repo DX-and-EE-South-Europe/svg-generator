@@ -4,14 +4,14 @@
     "prefix": "app",
     "modules": [
         {
-            "name": "Shapes",
+            "name": "ShapesSvg",
             "files": [
                 "circle",
                 "square"
             ]
         },
         {
-            "name": "Fruits",
+            "name": "FruitsSvg",
             "files": [
                 "apple",
                 "banana"
