@@ -1,6 +1,6 @@
 {
-    "inputDir": "",
-    "outputDir": "",
+    "inputDir": "node_modules/awesome-svg/assets",
+    "outputDir": "src/generated-svg",
     "prefix": "app",
     "modules": [
         {
