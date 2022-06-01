@@ -1,9 +1,9 @@
 {
-    "builders": {
-      "svg-generator": {
-        "implementation": "./svg-generator",
-        "schema": "./svg-generator/schema.json",
-        "description": "Generates angular components with svg templates"
-      }
+  "builders": {
+    "svg-generator": {
+      "implementation": "./svg-generator",
+      "schema": "./svg-generator/schema.json",
+      "description": "Generates angular components with svg templates"
     }
   }
+}
